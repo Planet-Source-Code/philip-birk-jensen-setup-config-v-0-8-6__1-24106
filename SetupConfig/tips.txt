@@ -1,0 +1,3 @@
+Select the VB Project matching the setup project, and then use the options to either: open, run, compile, locate or scan it.
+Before you use you'r setup project, try scanning it for improvements and errors, using the Analyse utility.
+If you want a more "pro" look for you program, then set all the files to the same date, and use the Date utility to change the date of your setup files.
